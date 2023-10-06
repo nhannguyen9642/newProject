@@ -1,0 +1,13 @@
+* commit 86ceade6f3308c10444ec4aeae708f7b55d4511d
+  Author: mssv <nhaan9642@gmail.com>
+  Date:   Fri Oct 6 13:38:21 2023 +0700
+  
+      first commit
+  
+  diff --git a/readme.txt b/readme.txt
+  new file mode 100644
+  index 0000000..7fd5222
+  --- /dev/null
+  +++ b/readme.txt
+  @@ -0,0 +1 @@
+  +hello word
