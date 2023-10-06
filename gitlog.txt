@@ -1,3 +1,76 @@
+* commit 84d7338c34f1f86cd3d47a09d1a5e0f383fea077
+| Author: mssv <nhaan9642@gmail.com>
+| Date:   Fri Oct 6 14:04:46 2023 +0700
+| 
+|     second commit
+| 
+| diff --git a/hello.cpp b/hello.cpp
+| new file mode 100644
+| index 0000000..d9edb56
+| --- /dev/null
+| +++ b/hello.cpp
+| @@ -0,0 +1,8 @@
+| +#include <iostream>
+| +using namespace std;
+| +
+| +int main()
+| +{
+| +    cout << "Hello world!" << endl;
+| +    return 0;
+| +}
+| \ No newline at end of file
+| 
+* commit 68b69c2acca0dfde54744bc9bf321bd4e6d882ac
+| Author: mssv <nhaan9642@gmail.com>
+| Date:   Fri Oct 6 13:59:39 2023 +0700
+| 
+|     first commit
+| 
+| diff --git a/index.html b/index.html
+| new file mode 100644
+| index 0000000..33551e2
+| --- /dev/null
+| +++ b/index.html
+| @@ -0,0 +1,12 @@
+| +<!DOCTYPE html>
+| +<html lang="en">
+| +  <head>
+| +    <meta charset="UTF-8" />
+| +    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+| +    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+| +    <title>Document</title>
+| +  </head>
+| +  <body>
+| +    Hello
+| +  </body>
+| +</html>
+| 
+* commit 8cf53c6fb76fa210cb3e9be0ce196bda5dc5a812
+| Author: mssv <nhaan9642@gmail.com>
+| Date:   Fri Oct 6 13:46:52 2023 +0700
+| 
+|     first commit
+| 
+| diff --git a/gitlog.txt b/gitlog.txt
+| new file mode 100644
+| index 0000000..45ee213
+| --- /dev/null
+| +++ b/gitlog.txt
+| @@ -0,0 +1,13 @@
+| +* commit 86ceade6f3308c10444ec4aeae708f7b55d4511d
+| +  Author: mssv <nhaan9642@gmail.com>
+| +  Date:   Fri Oct 6 13:38:21 2023 +0700
+| +  
+| +      first commit
+| +  
+| +  diff --git a/readme.txt b/readme.txt
+| +  new file mode 100644
+| +  index 0000000..7fd5222
+| +  --- /dev/null
+| +  +++ b/readme.txt
+| +  @@ -0,0 +1 @@
+| +  +hello word
+| 
 * commit 86ceade6f3308c10444ec4aeae708f7b55d4511d
   Author: mssv <nhaan9642@gmail.com>
   Date:   Fri Oct 6 13:38:21 2023 +0700
